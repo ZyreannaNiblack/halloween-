@@ -1,0 +1,46 @@
+body {
+ background-image: url("img/PhK7DN.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1 {
+color: tomato;
+text-align: center;
+font-family: fantasy;
+font-size: 250%
+}
+h2 {
+color: lightgray;
+text-align: left;
+font-family: monospace;
+font-size: 150%
+}
+h3 {
+  color: tomato;
+  border-width: thick;
+  border-style: double;
+  text-align: center;
+  font-style: italic;
+}
+h4{
+  color: tomato;
+  text-align: left;
+  font-style: oblique;
+}
+
+.button {
+font-size: 90%
+
+}
+
+.penny {
+  filter: sepia(50);
+  border-color: inherit;
+  border-radius: 40%;
+
+
+}
+.reaper {
+  border-color: inherit;
+  border-left: 40%
+}
